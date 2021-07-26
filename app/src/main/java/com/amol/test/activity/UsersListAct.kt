@@ -16,7 +16,7 @@ import com.amol.test.R
 import com.amol.test.adapter.UserListAdapter
 import com.amol.test.databinding.ActivityUsersListBinding
 import com.amol.test.viewmodel.UserLIstViewModel
-// git push
+// git push  20210726
 class UsersListAct : AppCompatActivity() {
     lateinit var context: Context
 
