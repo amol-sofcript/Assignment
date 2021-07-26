@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="headerTextViewLabel">
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:maxLines">4</item>
+        <item name="android:lines">1</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="TextViewLabel">
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:maxLines">4</item>
+        <item name="android:lines">1</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>
